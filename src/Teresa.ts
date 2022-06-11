@@ -1,7 +1,5 @@
 export class Teresa {
-    private readonly test: string;
-
-    constructor() {
-        this.test = "test"
-    }
+  constructor() {
+    console.log("constructor");
+  }
 }

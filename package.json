@@ -1,11 +1,13 @@
 {
-  "name": "@scope-name/teresa",
+  "name": "@nakagam3/teresa",
   "version": "0.1.0",
   "description": "Teresa is an automated sanitization library inspired by Cleve.js.",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest",
     "build": "rimraf dist & tsc",
+    "prepare": "npm run build",
     "lint": "eslint --fix src/**/*.ts"
   },
   "repository": {
