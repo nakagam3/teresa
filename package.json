@@ -1,0 +1,35 @@
+{
+  "name": "@scope-name/teresa",
+  "version": "0.1.0",
+  "description": "Teresa is an automated sanitization library inspired by Cleve.js.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakagam3/teresa.git"
+  },
+  "keywords": [
+    "teresa",
+    "cleave",
+    "javascript",
+    "html",
+    "sanitize",
+    "form",
+    "input",
+    "filter",
+    "vanilla",
+    "vue"
+  ],
+  "author": {
+    "name": "nakagam3",
+    "url": "https://github.com/nakagam3",
+    "email": "botch.10no@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nakagam3/teresa/issues"
+  },
+  "homepage": "https://github.com/nakagam3/teresa#readme"
+}
